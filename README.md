@@ -1,10 +1,8 @@
-+--------------------------------------------+
-|                                            |
-|                 MarkMyLife                  |
-|                                            |
-|        Your life, beautifully formatted.   |
-|                                            |
-+--------------------------------------------+
+# MarkMyLife
+
+*Your life, beautifully formatted.*
+
+
 
 
   MarkMyLife 📝  
