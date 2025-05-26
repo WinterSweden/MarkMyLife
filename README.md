@@ -34,7 +34,7 @@ MarkMyLife is a simple and elegant C++ application that helps you create themed 
 
 ## 📦 Output
 
-MarkMyLife creates a markdown file named `output.md`.  
+MarkMyLife creates a markdown file named `MML.md`.  
 
 ---
 
