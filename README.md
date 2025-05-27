@@ -8,27 +8,43 @@
   MarkMyLife 📝  
 **"Your life, beautifully formatted."**
 
-MarkMyLife is a simple and elegant C++ application that helps you create themed CVs and résumés directly from your terminal. Whether you want something minimal, playful, or professional — we've got you covered.
+MarkMyLife is a simple and elegant C++ application that helps you create themed personal documents directly from your terminal. Whether you want something minimal, playful, or professional — we've got you covered.
 
+---
+
+## Document Types:
+ - CV
+ - Resumes
+ - Medical Records
+
+---
+
+## Document Themes:
+ - Elegant
+ - Minimal
+ - Playful
+ - Floral
+ - Winter
+ - Summer
+ - Rainy
+ - Professional Corporate
+ - Festival
 ---
 
 ## 🌟 Features
 
 - 🧠 Guided CV or résumé builder via simple prompts  
-- 🎨 Built-in themes: Elegant, Minimalist, Playful  
-- 📄 Outputs beautiful HTML files you can save, print, or convert to PDF  
-- 🖋️ Custom watermark for a unique personal touch  
+- 📄 Outputs beautiful markdown files you can save, or convert to PDF  
 - 🔒 Limited use — subscription required for commercial deployment
 
 ---
 
 ## 🚀 Getting Started
 
-1. Download the folder from [GitHub](https://github.com/yourusername/MarkMyLife)  
-2. Navigate to: MarkMyLife > application > MarkMyLife
-3. Run the executable:
-- On **Windows**: double-click `MarkMyLife.exe`
-- On **macOS/Linux**: run `./MarkMyLife` from the terminal
+1. Download main.cpp from this directory.
+2. (in the terminal) Navigate to main.cpp
+3. Use g++ to create a.out
+4. Do ./a.out to execute.
 
 ---
 
